@@ -8,7 +8,7 @@
 
 
 
-AddEventHandler("vRP:playerSpawn", function(user_id, source, first_spawn)
+AddEventHandler("playerSpawn", function(user_id, source, first_spawn)
 	if not first_spawn then
 		local address = home:getByAddress(home, number)
 	    if address then 
