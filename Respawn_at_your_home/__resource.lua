@@ -4,8 +4,6 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'Vipex Nenea Face Magie '
-
 version '1.0'
 
 
